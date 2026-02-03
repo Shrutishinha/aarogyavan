@@ -37,11 +37,11 @@ Users can review and update their data anytime
 The system focuses on clarity, usability, and structured data handling, making it suitable for real-world usage and academic presentation.
 
 🛠️ Tech Stack
-Technology	Purpose
-HTML5	Page structure
-CSS3	Styling & layout
-JavaScript (ES6)	Logic & interactivity
-Optional Backend	Python / Node.js (future scope)
+Technology	            Purpose
+HTML5                 	Page structure
+CSS3                  	Styling & layout
+JavaScript (ES6)	      Logic & interactivity
+Optional Backend	      Python / Node.js (future scope)
 📁 Project Structure
 aarogyavan/
 │
