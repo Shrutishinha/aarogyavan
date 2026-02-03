@@ -46,9 +46,13 @@ Optional Backend	Python / Node.js (future scope)
 aarogyavan/
 │
 ├── index.html        # Main interface
+
 ├── style.css         # UI styling
+
 ├── script.js         # Logic & interactions
+
 ├── assets/           # Images / icons
+
 └── README.md
 
 🎯 Project Objectives
