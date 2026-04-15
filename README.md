@@ -2,7 +2,7 @@
 <!-- 🔷 ULTRA ANIMATED PROFESSIONAL README – AAROGYAVAN 🔷 -->
 <!-- ========================================================= -->
 
-<p align="center">
+<p align="center">hi
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:134E5E&height=220&section=header&text=AAROGYAVAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
