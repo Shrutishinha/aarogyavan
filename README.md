@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-   <!-- 🔷  ANIMATED PROFESSIONAL README – AAROGYAVAN 🔷 -->jihnn
+   <!-- 🔷  ANIMATED PROFESSIONAL README – AAROGYAVAN 🔷 -->
 <!-- ========================================================= -->
 
 <p align="center">
