@@ -4,8 +4,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:134E5E&height=220&section=header&text=AAROGYAVAN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>hhi
-
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2800&pause=800&color=2ECC71&center=true&vCenter=true&width=1000&lines=SMART+HEALTH+TRACKING+AND+INFORMATION+SYSTEM;ACADEMIC+WEB+PROJECT;STRUCTURED+HEALTH+DATA+MANAGEMENT;BUILT+USING+HTML+CSS+AND+JAVASCRIPT;DESIGNED+FOR+SIMPLICITY+AND+USABILITY" />
 </p>
